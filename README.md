@@ -1,8 +1,16 @@
-# React + Vite
+# React Form Validation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Simple React project showcasing form validation with real-time error handling, input validation, and form reset functionality. This project is ideal for learning and implementing form validation in React application.
 
-Currently, two official plugins are available:
+## Features:
+ - **Real-Time-Validation** : Form message are displayed dynamically as users type in the fields.
+ - **Input Validation** : 
+    - Required fields are validated.
+    - Email format validation.
+ - **Error Handling** : Clear and user-friendly error messages for invalid inputs.
+ - **Form Reset** : Input fields and errors are reset after a successful form submission.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies Used 
+ - ReactJS
+ - HTML & CSS for styling
